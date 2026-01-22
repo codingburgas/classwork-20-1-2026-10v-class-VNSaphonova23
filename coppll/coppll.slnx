@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="coppll/coppll.vcxproj" Id="7011ca4e-e3b1-4e1f-8f40-65e17697deeb" />
+  <Project Path="Project1/Project1.vcxproj" Id="a209e56c-ab14-4d02-98fa-0123c3d3999b" />
+</Solution>
